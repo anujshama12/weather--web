@@ -8,5 +8,6 @@ HTML
 CSS
 JAVA SCRIPT
 
-![ss](https://github.com/anujshama12/weather--web/assets/123921074/238e6979-cf3f-4616-92a4-a1c924e32870)
+![ss](https://github.com/anujshama12/weather--web/assets/123921074/2d68e2e2-198a-4371-b456-066f504b6934)
+
 
